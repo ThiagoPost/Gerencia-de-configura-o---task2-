@@ -11,5 +11,8 @@
             "App\\": "model/",
             "App\\Controller\\": "controller/"
         }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
     }
 }
